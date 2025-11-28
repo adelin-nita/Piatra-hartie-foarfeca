@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714308800 source:c:\users\adelin\desktop\piatra, hartie, foarfeca\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1714308800 source:c:\users\adelin\desktop\adelin\piatra, hartie, foarfeca\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
